@@ -1,0 +1,7 @@
+{
+  "name": "jsonApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
