@@ -1,1 +1,1 @@
-A simple app to display json data and some features in it
+A simple ionic app (cross mobile app) to display json data and some features in it
